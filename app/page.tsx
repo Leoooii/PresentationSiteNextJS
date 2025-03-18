@@ -19,7 +19,7 @@ export default function Page() {
           <div className="container flex h-14 items-center">
             <div className="mr-4 hidden md:flex">
               <Link className="mr-6 flex items-center space-x-2" href="/">
-                <span className="hidden font-bold sm:inline-block">John.dev</span>
+                <span className="hidden font-bold sm:inline-block">Ilie Leonard Andrei</span>
               </Link>
               <nav className="flex items-center space-x-6 text-sm font-medium">
                 <Link href="#about" className="transition-colors hover:text-primary">
