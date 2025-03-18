@@ -140,28 +140,28 @@ export default function Page() {
                 <ProjectCard
                   title="Hardware Store Web Platform"
                   description="I independently developed a web platform using Next.js for a hardware store, integrating Firebase authentication, which allows the owner to showcase and efficiently manage their stock."
-                  image="/placeholder.svg?height=400&width=600"
+                  image="https://images.unsplash.com/photo-1581783898377-1c85bf937427?q=80&w=2340&auto=format&fit=crop"
                   link="https://github.com"
                   tags={["Next.js", "Firebase", "Authentication"]}
                 />
                 <ProjectCard
                   title="Dental Clinic Management Platform"
                   description="I built a web platform using React, Express and Mongoose where doctors can create appointments and manage other aspects of the clinic."
-                  image="/placeholder.svg?height=400&width=600"
+                  image="https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?q=80&w=2070&auto=format&fit=crop"
                   link="https://github.com"
                   tags={["React", "Express", "MongoDB"]}
                 />
                 <ProjectCard
                   title="ANAF Information Platform"
                   description="Web platform for accessing ANAF (Romanian Tax Administration) information, providing users with easy access to tax-related data."
-                  image="/placeholder.svg?height=400&width=600"
+                  image="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=2011&auto=format&fit=crop"
                   link="https://github.com"
                   tags={["JavaScript", "API Integration", "Web Development"]}
                 />
                 <ProjectCard
                   title="Security System for Hearing Impaired"
                   description="I worked on a team project which involves Arduino and sensors with the purpose of alarming people with hearing impairments of intruders."
-                  image="/placeholder.svg?height=400&width=600"
+                  image="https://images.unsplash.com/photo-1553406830-ef2513450d76?q=80&w=2071&auto=format&fit=crop"
                   link="https://github.com"
                   tags={["Arduino", "IoT", "Sensors"]}
                 />
