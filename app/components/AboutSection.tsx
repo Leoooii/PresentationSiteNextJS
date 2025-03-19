@@ -10,7 +10,7 @@ const AboutSection = () => {
       <div className="container px-4 md:px-6">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2 relative p-8 rounded-xl bg-black/40 backdrop-blur-sm border border-blue-500/20 w-full max-w-3xl mx-auto overflow-hidden">
-            <HeroBackground />
+            {/* <HeroBackground /> */}
             <div className="relative z-10">
               <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none text-white mb-8">
                 Full Stack Developer
